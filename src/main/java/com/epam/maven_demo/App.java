@@ -1,9 +1,5 @@
 package com.epam.maven_demo;
 import java.util.*;
-/**
- * Hello world!
- *
- */
 class Gift
 {
 	public static String[] chocolates=new String[100];
